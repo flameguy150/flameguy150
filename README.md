@@ -2,4 +2,4 @@
 
 
 ### 코딩
-<img width="400" height="300" alt="wallhaven-6q5y5l" src="https://github.com/user-attachments/assets/6a3bf225-7307-4cd4-b13e-b6834ff4dc47" />
+<img width="300" height="200" alt="wallhaven-6q5y5l" src="https://github.com/user-attachments/assets/6a3bf225-7307-4cd4-b13e-b6834ff4dc47" />
